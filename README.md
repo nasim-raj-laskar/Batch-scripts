@@ -5,22 +5,23 @@ This repository contains a set of useful batch scripts designed for various purp
 ### 1. Shutdown.bat
 
 - 🛑 Description: A script to shutdown the system after a certain time delay or immediately.
-- 📄 Usage: Details on how to use this script can be found in the [Shutdown directory README](./Shutdown/README.md)
+- 📄 Usage: Details on how to use this script can be found in the [Shutdown directory README](./Shutdown/README.md).
 
 
 ### 2. RAM-overflow.bat
 - ⚠️ Description: A script designed to simulate a memory overflow situation, useful for testing and educational purposes.
-- 📄 Usage: Details on how to use this script can be found in the RAM-overflow directory README.
+- 📄 Usage: Details on how to use this script can be found in the [RAM-overflow directory README](./RAM-overflow/README.md).
 
 ### 3. Infinite Folder.bat
 
 - 💥 Description: A script that creates an infinite number of nested folders, filling disk space rapidly.
-- 📄 Usage: Details on how to use this script can be found in the [Infinite Folder directory README](./Infinite Folder/README.md).
+- 📄 Usage: Details on how to use this script can be found in the [Infinite Folder directory README](./infinite-folder/README.md)
+.
 
 ### 4.Space-Eating Script
 
 - 💣 Description: A space-eating script that rapidly consumes disk space, useful for testing system limits.
-- 📄 Usage: Details on how to use this script can be found in the [Space-Eating Script directory README](./Space-Eating Script/README.md).
+- 📄 Usage: Details on how to use this script can be found in the [Space Eating directory README](./space-eating/README.md).
 
 ## 🗂️ Repository Structure
 
@@ -34,7 +35,7 @@ This repository contains a set of useful batch scripts designed for various purp
 
 - `Infinite Folder/`
 
-    - Contains the `Infinite Folder.bat` script and its corresponding `README.md`.
+    - Contains the `infinte folder.bat` script and its corresponding `README.md`.
 
 - `Space-Eating Script/`
 
