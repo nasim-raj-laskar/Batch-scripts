@@ -15,7 +15,7 @@ This repository contains a set of useful batch scripts designed for various purp
 ### 3. Infinite Folder.bat
 
 - 💥 Description: A script that creates an infinite number of nested folders, filling disk space rapidly.
-- 📄 Usage: Details on how to use this script can be found in the [Infinite Folder directory README](./Infinite-Folder/README.md)
+- 📄 Usage: Details on how to use this script can be found in the [Infinite Folder directory README](./Infinite%20Folder/README.md)
 .
 
 ### 4.Space-Eating Script
