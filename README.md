@@ -70,5 +70,10 @@ These scripts can cause significant changes to your system, including but not li
 
 #### 🛑 USE AT YOUR OWN RISK. 🛑
 
-## 📜 License
-[Specify your license here.]
+## 🤝 Contributions
+If you have any suggestions for new features, improvements, or additional scripts that could be useful, feel free to open an issue or submit a pull request! Contributions are welcome, whether it's to fix bugs, enhance functionality, or introduce new testing scripts.
+
+#### How to Contribute:
+- Fork the repository.
+- Create a new branch for your changes.
+- Submit a pull request with a clear description of the enhancements or fixes you made.
