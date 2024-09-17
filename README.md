@@ -44,7 +44,7 @@ This repository contains a set of useful batch scripts designed for various purp
 ## 🛠️ How to Use
 - Clone the repository:
   ```
-  git clone https://github.com/your-username/batch-script-collection.git
+  git clone https://github.com/your-username/Batch-script.git
   ```
 - Navigate to the desired script’s subdirectory.
 
