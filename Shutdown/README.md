@@ -6,10 +6,10 @@ This batch script allows you to shut down your system either immediately or afte
 ## 🚀 Usage:
 1. Double-click `Shutdown.bat` to run the script.
 2. By default, it will prompt for immediate shutdown.
-3. To add a time delay (e.g., 60 seconds), you can edit the script or run it via the command line:
+3. To add a time delay (e.g., 60 seconds), you can edit the script or run it like this:
    
    ```
-   shutdown.bat /t 60
+   shutdown.exe -s -t 60 -c "Testing"
    ```
 Replace 60 with the number of seconds you want to delay the shutdown.
 
