@@ -12,7 +12,4 @@ This script simulates a RAM overflow scenario by overloading system memory. It i
 - Only run this in a **virtual machine** or **non-production environment**.
 - Do **not** run this on important systems as it may cause system instability.
 
-## Example:
-```bash
-RAM-overflow.bat   # This will start consuming system memory until it's overloaded.
 
