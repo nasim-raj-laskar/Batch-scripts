@@ -14,7 +14,3 @@ This script creates an infinite number of nested folders, consuming disk space r
 - Run this script in a **virtual machine** or **test system** only.
 - It may be difficult to clean up afterward, so consider running it in an isolated environment.
 
-## Example:
-```bash
-Infinite Folder.bat   # Starts creating an endless loop of nested folders.
-
