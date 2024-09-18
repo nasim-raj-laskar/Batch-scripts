@@ -23,6 +23,21 @@ This repository contains a set of useful batch scripts designed for various purp
 - 💣 Description: A space-eating script that rapidly consumes disk space, useful for testing system limits.
 - 📄 Usage: Details on how to use this script can be found in the [Space Eating directory README](./Space-Eater/README.md).
 
+### 5.Endless Notepad
+
+- 📝 Description: This script opens an infinite number of Notepad instances until the system crashes or runs out of resources.
+- 📄 Usage: Details on how to use this script can be found in the [Endless Notepad README](./Endless-notepad/README.md).
+
+### 6.Registry File Deleter
+
+- 🔒 Description: This script deletes key Windows registry files, potentially rendering the system unusable. Extreme caution is advised.
+- 📄 Usage: Details on how to use this script can be found in the [Registry File Deleter README](./Registry-File-Deleter/README.md).
+
+### 7.Unlimited Background Process Maker
+
+- ⚙️ Description: This script creates an infinite number of background processes, consuming CPU resources until the system crashes.
+- 📄 Usage: Details on how to use this script can be found in the [Unlimited Background Process Maker README](./CRASH/README.md).
+
 ## 🗂️ Repository Structure
 
 - `Shutdown/`
@@ -41,6 +56,18 @@ This repository contains a set of useful batch scripts designed for various purp
 
     - Contains the `space-eating.bat` batch script and its corresponding `README.md`.
 
+- `Endless Notepad/`
+
+    - Contains the `endless-note.bat` script and its corresponding `README.md`.
+
+- `Registry File Deleter/`
+
+    - Contains the `Registry-file-Deleter.bat` script and its corresponding `README.md`.
+
+- `Unlimited Background Process Maker/`
+
+    - Contains the `unli-proc.bat` script and its corresponding `README.md`.
+
 ## 🛠️ How to Use
 - Clone the repository:
   ```
@@ -55,10 +82,11 @@ This repository contains a set of useful batch scripts designed for various purp
 
 These scripts can cause significant changes to your system, including but not limited to:
 
-- 🖥️ System shutdowns without warning
-- 🔄 Simulating a RAM overflow that can cause your system to become unresponsive
-- 🧨 Rapidly consuming disk space, potentially leading to critical system failures or crashes
-- 📁 Infinite folder creation, which can quickly overwhelm the file system
+- Shutting down your system abruptly
+- Overloading system memory, leading to crashes
+- Filling up disk space, resulting in system failure
+- Creating an infinite number of Notepad instances or background processes
+- Deleting key Windows registry files, making your system unusable
 ### Key Warnings:
 - ⚠️ Run in a Controlled Environment: These scripts are intended for educational and testing purposes. Only run them in virtual machines (VMs) or test systems. Do not run them on critical systems!
 
