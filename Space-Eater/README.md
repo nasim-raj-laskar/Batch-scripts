@@ -13,7 +13,3 @@ This batch script rapidly consumes disk space by creating large files. It is use
 - Run this in a **test system** or **virtual machine** only.
 - Once the disk is full, it may be difficult to recover the system.
 
-## Example:
-```bash
-space-eating.bat   # Starts consuming disk space.
-
