@@ -52,19 +52,19 @@ This repository contains a set of useful batch scripts designed for various purp
 
     - Contains the `infinte folder.bat` script and its corresponding `README.md`.
 
-- `Space-Eating Script/`
+- `Space-Eater/`
 
     - Contains the `space-eating.bat` batch script and its corresponding `README.md`.
 
-- `Endless Notepad/`
+- `Endless-Notepad/`
 
     - Contains the `endless-note.bat` script and its corresponding `README.md`.
 
-- `Registry File Deleter/`
+- `Registry-File-Deleter/`
 
     - Contains the `Registry-file-Deleter.bat` script and its corresponding `README.md`.
 
-- `Unlimited Background Process Maker/`
+- `CRASH/`
 
     - Contains the `unli-proc.bat` script and its corresponding `README.md`.
 
